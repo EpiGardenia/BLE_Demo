@@ -14,5 +14,5 @@ This is a sidework to explore BLE and coreBluetooth
 
 <img src="Demo/Nearby.PNG" width="300" height="600">
 <img src="Demo/Service.PNG" width="300" height="600">
-<img src="Demo/Servie_char.PNG" width="300" height="600">
+<img src="Demo/Service_char.PNG" width="300" height="600">
 <img src="Demo/Advertisement.PNG" width="300" height="600">
